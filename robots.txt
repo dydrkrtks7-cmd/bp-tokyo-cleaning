@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://tokyo-cleaning.pages.dev/sitemap.xml
+Sitemap: https://deungchonnight.xyz/sitemap.xml
