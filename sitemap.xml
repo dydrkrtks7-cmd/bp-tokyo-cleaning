@@ -1,206 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.deungchonnight.xyz/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://blog.deungchonnight.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://blog.deungchonnight.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <loc>https://blog.deungchonnight.xyz/posts/checklist-003-15ycdit.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.deungchonnight.xyz/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://blog.deungchonnight.xyz/posts/checklist-003-9c6w4v.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/compare-002-12xguzh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/compare-002-66qcg8.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/compare-003-1y6lom1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/compare-003-4uaw8x.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/field_note-001-fav3de.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/field_note-001-rny6tr.html</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0492.html</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0494.html</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0496.html</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0498.html</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0500.html</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0502.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0493.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0494.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0495.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0496.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0497.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0498.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0499.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0500.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0501.html</loc>
-    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0502.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260707-0503.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0231.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0232.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0233.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0234.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0235.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0236.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0237.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260721-0238.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0056.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0057.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0058.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0059.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0060.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0061.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0062.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0063.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0064.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0065.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://blog.deungchonnight.xyz/posts/gemini-coverage-20260722-0066.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/guide-001-1xusbdh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/guide-001-bwxhw6.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/interview-005-11cf01j.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/myth-004-pa1vp5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/qa-001-1mdlmeb.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/qa-001-evxhty.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/qa-002-1pdvp6a.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/qa-002-adk4te.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/review-001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.deungchonnight.xyz/posts/review-002.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
